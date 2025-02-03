@@ -1,0 +1,5 @@
+NOME,IDADE,PESO,ED_JEDI,PODER,Coluna a partir de lista,PODER(Pós Arco),ANO,DATA,COISA
+Luke Skywalker,16,70.5,True,0,0,0,2008,2004-05-09,22222
+Yoda,1000,15.12,True,1,1,3,2010,2004-05-09,aaaaaa
+Palpatine,70,60.1,False,2,2,6,2012,2004-05-09,aaaaaa
+Luke Skywalker,33,75.5,True,3,3,6,2011,2004-05-09,aaaaaa
