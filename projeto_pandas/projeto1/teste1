@@ -1,0 +1,21 @@
+Nome do Projeto,Localização,Custo (R$),Data de Início,Data de Término,Status,Responsável,Tipo de Construção,Área (m²),Número de Andares
+Projeto 1,Local 19,410952,2024-07-22 00:25:06.597691,2025-07-12 00:25:06.597691,Cancelado,Engenheiro 9,Residencial,160,8
+Projeto 2,Local 60,575672,2024-12-24 00:25:06.597691,2025-09-12 00:25:06.597691,Concluído,Engenheiro 6,Residencial,141,10
+Projeto 3,Local 85,373082,2024-06-19 00:25:06.597691,2025-05-02 00:25:06.597691,Cancelado,Engenheiro 9,Industrial,281,10
+Projeto 4,Local 68,542960,2024-07-06 00:25:06.597691,2024-12-02 00:25:06.597691,Em andamento,Engenheiro 3,Comercial,250,2
+Projeto 5,Local 99,714514,2024-05-27 00:25:06.597691,2024-10-07 00:25:06.597691,Concluído,Engenheiro 2,Industrial,399,6
+Projeto 6,Local 93,835542,2024-03-06 00:25:06.597691,2024-10-10 00:25:06.597691,Cancelado,Engenheiro 6,Residencial,422,6
+Projeto 7,Local 27,346723,2024-10-23 00:25:06.597691,2025-05-26 00:25:06.597691,Em andamento,Engenheiro 4,Industrial,206,4
+Projeto 8,Local 48,104598,2024-10-27 00:25:06.597691,2025-08-06 00:25:06.597691,Em andamento,Engenheiro 10,Industrial,168,9
+Projeto 9,Local 53,433819,2024-06-01 00:25:06.597691,2024-11-23 00:25:06.597691,Cancelado,Engenheiro 10,Industrial,317,2
+Projeto 10,Local 33,292288,2024-03-14 00:25:06.597691,2024-08-25 00:25:06.597691,Em andamento,Engenheiro 2,Residencial,330,8
+Projeto 11,Local 25,815111,2024-10-14 00:25:06.597691,2025-05-01 00:25:06.597691,Concluído,Engenheiro 3,Comercial,408,9
+Projeto 12,Local 30,633463,2024-09-26 00:25:06.597691,2025-07-29 00:25:06.597691,Concluído,Engenheiro 1,Comercial,473,3
+Projeto 13,Local 47,741386,2024-06-04 00:25:06.597691,2024-07-13 00:25:06.597691,Em andamento,Engenheiro 6,Comercial,70,3
+Projeto 14,Local 57,408301,2024-08-28 00:25:06.597691,2025-01-11 00:25:06.597691,Cancelado,Engenheiro 2,Residencial,179,4
+Projeto 15,Local 99,982073,2024-02-29 00:25:06.597691,2024-06-26 00:25:06.597691,Em andamento,Engenheiro 2,Comercial,440,3
+Projeto 16,Local 33,631559,2024-11-19 00:25:06.597691,2025-08-26 00:25:06.597691,Cancelado,Engenheiro 5,Comercial,124,2
+Projeto 17,Local 49,633141,2024-08-01 00:25:06.597691,2025-06-29 00:25:06.597691,Concluído,Engenheiro 8,Comercial,223,8
+Projeto 18,Local 80,729450,2024-09-18 00:25:06.597691,2024-11-07 00:25:06.597691,Concluído,Engenheiro 7,Industrial,86,5
+Projeto 19,Local 38,495536,2024-05-04 00:25:06.597691,2025-03-13 00:25:06.597691,Concluído,Engenheiro 2,Residencial,204,6
+Projeto 20,Local 43,830584,2024-05-12 00:25:06.597691,2024-07-10 00:25:06.597691,Cancelado,Engenheiro 8,Residencial,403,3
