@@ -1,21 +1,21 @@
 Nome do Projeto,Localização,Custo (R$),Data de Início,Data de Término,Status,Responsável,Tipo de Construção,Área (m²),Número de Andares
-Projeto 1,Local 39,913117,2024-03-15 13:28:11.356606,2025-02-24 13:28:11.356606,Em andamento,Engenheiro 6,Industrial,95,10
-Projeto 2,Local 66,613188,2024-10-19 13:28:11.356606,2025-08-08 13:28:11.356606,Cancelado,Engenheiro 8,Comercial,481,5
-Projeto 3,Local 38,506898,2024-09-21 13:28:11.356606,2025-03-21 13:28:11.356606,Em andamento,Engenheiro 6,Residencial,188,7
-Projeto 4,Local 37,300817,2024-05-06 13:28:11.356606,2024-07-05 13:28:11.356606,Concluído,Engenheiro 8,Residencial,467,3
-Projeto 5,Local 99,197534,2024-05-23 13:28:11.356606,2025-01-19 13:28:11.356606,Em andamento,Engenheiro 8,Comercial,443,6
-Projeto 6,Local 26,517485,2024-12-21 13:28:11.356606,2025-11-28 13:28:11.356606,Em andamento,Engenheiro 9,Residencial,69,6
-Projeto 7,Local 55,549338,2024-10-07 13:28:11.356606,2025-02-08 13:28:11.356606,Em andamento,Engenheiro 2,Comercial,219,4
-Projeto 8,Local 36,976991,2024-04-17 13:28:11.356606,2025-01-11 13:28:11.356606,Em andamento,Engenheiro 8,Industrial,372,4
-Projeto 9,Local 68,892459,2024-09-28 13:28:11.356606,2025-04-10 13:28:11.356606,Em andamento,Engenheiro 9,Comercial,222,6
-Projeto 10,Local 33,109833,2024-02-08 13:28:11.356606,2024-10-05 13:28:11.356606,Concluído,Engenheiro 2,Residencial,67,10
-Projeto 11,Local 5,335908,2024-05-09 13:28:11.356606,2024-06-13 13:28:11.356606,Cancelado,Engenheiro 8,Industrial,311,8
-Projeto 12,Local 46,498056,2024-06-28 13:28:11.356606,2025-01-24 13:28:11.356606,Cancelado,Engenheiro 1,Industrial,153,10
-Projeto 13,Local 94,659839,2024-06-10 13:28:11.356606,2024-11-22 13:28:11.356606,Concluído,Engenheiro 9,Industrial,326,1
-Projeto 14,Local 71,874033,2024-09-27 13:28:11.356606,2025-01-25 13:28:11.356606,Em andamento,Engenheiro 10,Comercial,499,6
-Projeto 15,Local 11,259254,2024-09-15 13:28:11.356606,2025-08-05 13:28:11.356606,Cancelado,Engenheiro 8,Industrial,102,7
-Projeto 16,Local 17,238873,2024-08-13 13:28:11.356606,2025-06-25 13:28:11.356606,Cancelado,Engenheiro 10,Comercial,479,2
-Projeto 17,Local 49,158855,2024-05-22 13:28:11.356606,2025-01-19 13:28:11.356606,Cancelado,Engenheiro 7,Residencial,60,4
-Projeto 18,Local 33,991224,2024-07-04 13:28:11.356606,2024-12-25 13:28:11.356606,Cancelado,Engenheiro 9,Comercial,373,7
-Projeto 19,Local 81,757129,2024-04-23 13:28:11.356606,2024-10-02 13:28:11.356606,Cancelado,Engenheiro 8,Comercial,53,2
-Projeto 20,Local 31,399134,2024-07-27 13:28:11.356606,2025-05-12 13:28:11.356606,Cancelado,Engenheiro 1,Comercial,158,9
+Projeto 1,Local 4,175424,2024-05-14 12:35:14.213050,2025-03-25 12:35:14.213050,Concluído,Engenheiro 5,Comercial,282,8
+Projeto 2,Local 5,886873,2024-11-16 12:35:14.213050,2025-06-29 12:35:14.213050,Em andamento,Engenheiro 2,Comercial,461,1
+Projeto 3,Local 28,901171,2024-08-13 12:35:14.213050,2025-03-21 12:35:14.213050,Cancelado,Engenheiro 8,Residencial,158,1
+Projeto 4,Local 6,548830,2024-04-25 12:35:14.213050,2025-03-09 12:35:14.213050,Concluído,Engenheiro 5,Industrial,283,1
+Projeto 5,Local 87,516333,2024-09-20 12:35:14.213050,2025-04-08 12:35:14.213050,Cancelado,Engenheiro 4,Comercial,315,3
+Projeto 6,Local 80,211124,2024-09-01 12:35:14.213050,2024-10-13 12:35:14.213050,Cancelado,Engenheiro 4,Residencial,394,4
+Projeto 7,Local 66,750559,2024-09-16 12:35:14.213050,2025-02-15 12:35:14.213050,Em andamento,Engenheiro 7,Residencial,106,4
+Projeto 8,Local 12,366269,2024-11-01 12:35:14.213050,2025-02-16 12:35:14.213050,Concluído,Engenheiro 4,Comercial,70,5
+Projeto 9,Local 73,280145,2024-07-23 12:35:14.213050,2025-03-10 12:35:14.213050,Em andamento,Engenheiro 10,Comercial,418,4
+Projeto 10,Local 58,403157,2024-11-09 12:35:14.213050,2025-02-22 12:35:14.213050,Cancelado,Engenheiro 8,Comercial,132,1
+Projeto 11,Local 73,373735,2024-03-31 12:35:14.213050,2024-09-18 12:35:14.213050,Cancelado,Engenheiro 5,Comercial,355,2
+Projeto 12,Local 53,105529,2024-10-08 12:35:14.213050,2025-03-02 12:35:14.213050,Em andamento,Engenheiro 2,Comercial,326,3
+Projeto 13,Local 42,552245,2024-12-08 12:35:14.213050,2025-07-28 12:35:14.213050,Concluído,Engenheiro 8,Comercial,288,5
+Projeto 14,Local 70,586141,2024-03-04 12:35:14.213050,2024-08-30 12:35:14.213050,Concluído,Engenheiro 5,Comercial,357,3
+Projeto 15,Local 78,209431,2024-11-22 12:35:14.213050,2025-05-29 12:35:14.213050,Cancelado,Engenheiro 1,Industrial,432,5
+Projeto 16,Local 92,266502,2024-11-06 12:35:14.213050,2025-02-06 12:35:14.213050,Em andamento,Engenheiro 7,Industrial,232,4
+Projeto 17,Local 7,514781,2024-12-14 12:35:14.213050,2025-05-10 12:35:14.213050,Concluído,Engenheiro 7,Comercial,293,1
+Projeto 18,Local 64,144263,2024-07-23 12:35:14.213050,2024-11-30 12:35:14.213050,Em andamento,Engenheiro 6,Industrial,221,2
+Projeto 19,Local 59,532750,2024-12-28 12:35:14.213050,2025-10-20 12:35:14.213050,Em andamento,Engenheiro 8,Comercial,149,5
+Projeto 20,Local 21,477278,2024-11-11 12:35:14.213050,2025-05-10 12:35:14.213050,Em andamento,Engenheiro 5,Industrial,455,7
